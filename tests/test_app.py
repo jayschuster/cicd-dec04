@@ -1,4 +1,4 @@
-from app import add
+from src.app import add
 class Test():
 
     def testAdd():
